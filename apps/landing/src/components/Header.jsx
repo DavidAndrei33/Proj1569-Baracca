@@ -60,7 +60,7 @@ export default function Header() {
             </span>
             <span className="flex items-center gap-2 text-white/60">
               <Phone size={13} className="text-[#f59e0b]" />
-              <a href="tel:+40749107787" className="hover:text-[#fbbf24] transition-colors">+40 749 107 787</a>
+              <a href="tel:+40749107787" className="hover:text-[#fbbf24] transition-colors">+40 755 916 792</a>
             </span>
           </div>
           <div className="flex items-center gap-2 text-white/60">
@@ -90,9 +90,9 @@ export default function Header() {
               </div>
               <div className="hidden sm:block">
                 <h1 className="font-cinzel font-semibold text-base tracking-wider text-white">
-                  LA TRATTORIA <span className="text-[#fbbf24]">PETRA'S</span>
+                  PIZZERIA <span className="text-[#fbbf24]">BARACCA</span>
                 </h1>
-                <p className="text-[10px] text-white/40 font-medium tracking-[0.3em] uppercase">una fetta d'Italia</p>
+                <p className="text-[10px] text-white/40 font-medium tracking-[0.3em] uppercase">autentica napoletana</p>
               </div>
             </Link>
 

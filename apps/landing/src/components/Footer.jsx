@@ -15,7 +15,7 @@ export default function Footer() {
                 <Flame size={24} className="text-[#020204]" />
               </div>
               <div>
-                <h3 className="font-cinzel font-bold text-xl text-white">Rotiserie & Pizza</h3>
+                <h3 className="font-cinzel font-bold text-xl text-white">Pizzeria Baracca</h3>
                 <p className="text-white/50 text-sm">Moinești</p>
               </div>
             </div>
@@ -27,7 +27,7 @@ export default function Footer() {
               <a href="#" className="w-10 h-10 rounded-lg bg-white/10 hover:bg-[#f59e0b]/20 flex items-center justify-center transition-colors border border-white/10">
                 <Instagram size={18} className="text-[#fbbf24]" />
               </a>
-              <a href="https://www.facebook.com/RotiseriePizzaM" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-lg bg-white/10 hover:bg-[#f59e0b]/20 flex items-center justify-center transition-colors border border-white/10">
+              <a href="https://www.facebook.com/profile.php?id=100063631203493" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-lg bg-white/10 hover:bg-[#f59e0b]/20 flex items-center justify-center transition-colors border border-white/10">
                 <Facebook size={18} className="text-[#fbbf24]" />
               </a>
             </div>
@@ -39,15 +39,15 @@ export default function Footer() {
             <div className="space-y-4">
               <div className="flex items-start gap-3 text-white/60 text-sm">
                 <MapPin size={18} className="text-[#f59e0b] shrink-0 mt-0.5" />
-                <span>Bloc 10, Strada Tudor Vladimirescu 10, 605400 Moinesti, Jud. Bacau</span>
+                <span>Strada Plopilor 2c, 605400 Moinesti, Jud. Bacau</span>
               </div>
               <div className="flex items-center gap-3 text-white/60 text-sm">
                 <Phone size={18} className="text-[#f59e0b] shrink-0" />
-                <a href="tel:+40754292740" className="hover:text-[#fbbf24] transition-colors">+40 754 292 740</a>
+                <a href="tel:+40754292740" className="hover:text-[#fbbf24] transition-colors">+40 755 916 792</a>
               </div>
               <div className="flex items-center gap-3 text-white/60 text-sm">
                 <Clock size={18} className="text-[#f59e0b] shrink-0" />
-                <span>Luni - Duminică: 06:30 - 23:00 | Livrări: 10:00 - 24:00</span>
+                <span>Luni-Marți: 09:00-22:00 | Miercuri: INCHIS | Joi-Duminică: 09:00-22:00</span>
               </div>
             </div>
           </div>
@@ -65,7 +65,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-white/40 text-xs">
-            © 2026 Rotiserie & Pizza Moinești. Toate drepturile rezervate.
+            © 2026 Pizzeria Baracca. Toate drepturile rezervate.
           </p>
           <div className="flex items-center gap-1 text-white/40 text-xs">
             <span>Cu</span>

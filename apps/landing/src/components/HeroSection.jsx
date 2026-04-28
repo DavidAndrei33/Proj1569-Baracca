@@ -54,7 +54,7 @@ export default function HeroSection() {
               className="inline-flex items-center gap-2 bg-[#f59e0b]/10 border border-[#f59e0b]/20 backdrop-blur-sm rounded-full px-5 py-2.5 mb-8"
             >
               <Star size={14} className="text-[#fbbf24]" />
-              <span className="text-[#fbbf24] text-xs font-medium tracking-widest uppercase">4.8★ Premium Italian</span>
+              <span className="text-[#fbbf24] text-xs font-medium tracking-widest uppercase">4.9★ #1 TripAdvisor</span>
             </motion.div>
 
             <motion.h1 
@@ -63,9 +63,9 @@ export default function HeroSection() {
               transition={{ delay: 0.4, duration: 0.8 }}
               className="font-cinzel font-semibold text-4xl sm:text-5xl lg:text-6xl xl:text-7xl text-white leading-[1.1] mb-8 tracking-wide"
             >
-              <span className="block">LA TRATTORIA</span>
-              <span className="block gradient-honey-text">PETRA'S</span>
-              <span className="block text-white/80 text-2xl sm:text-3xl mt-4">una fetta d'Italia</span>
+              <span className="block">PIZZERIA</span>
+              <span className="block gradient-honey-text">BARACCA</span>
+              <span className="block text-white/80 text-2xl sm:text-3xl mt-4">autentica napoletana</span>
             </motion.h1>
 
             <motion.p 
@@ -74,9 +74,9 @@ export default function HeroSection() {
               transition={{ delay: 0.6, duration: 0.6 }}
               className="text-white/50 text-base sm:text-lg max-w-lg mb-10 leading-relaxed"
             >
-              Experimentează autenticul gust italian în inima Moineștiului. 
-              Paste artizanale, pizza napoletană și preparate premium din carne, 
-              într-o atmosferă caldă și primitoare.
+              Cea mai autentică pizza napoletană din Moinești. 
+              Aluat dospit 48 de ore, ingrediente importate din Italia, 
+              coptă în cuptor tradițional cu lemne.
             </motion.p>
 
             <motion.div 
@@ -114,7 +114,7 @@ export default function HeroSection() {
                   <Star size={20} className="text-[#fbbf24]" />
                 </div>
                 <div>
-                  <p className="text-white font-bold text-lg">4.8★</p>
+                  <p className="text-white font-bold text-lg">4.9★</p>
                   <p className="text-white/40 text-xs tracking-wider uppercase">Rating Google</p>
                 </div>
               </div>
@@ -123,7 +123,7 @@ export default function HeroSection() {
                   <Clock size={20} className="text-[#fbbf24]" />
                 </div>
                 <div>
-                  <p className="text-white font-bold text-lg">12:00-21:30</p>
+                  <p className="text-white font-bold text-lg">09:00-22:00</p>
                   <p className="text-white/40 text-xs tracking-wider uppercase">Program</p>
                 </div>
               </div>
@@ -132,8 +132,8 @@ export default function HeroSection() {
                   <Wine size={20} className="text-[#fbbf24]" />
                 </div>
                 <div>
-                  <p className="text-white font-bold text-lg">Premium</p>
-                  <p className="text-white/40 text-xs tracking-wider uppercase">Vinotecă</p>
+                  <p className="text-white font-bold text-lg">Artizanală</p>
+                  <p className="text-white/40 text-xs tracking-wider uppercase">Napoletană</p>
                 </div>
               </div>
             </motion.div>

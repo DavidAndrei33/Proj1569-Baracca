@@ -1,0 +1,15 @@
+config:
+  target: http://localhost:5002
+  phases:
+    - duration: 10
+      arrivalRate: 50
+      name: Smoke test
+scenarios:
+  - name: Mixed requests
+    flow:
+      - get:
+          url: /health
+      - get:
+          url: /api/products
+      - get:
+          url: /api/categories

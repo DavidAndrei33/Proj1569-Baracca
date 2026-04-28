@@ -1,0 +1,44 @@
+{
+    auto_https off
+}
+
+:80 {
+    encode gzip zstd
+
+    # Security headers
+    header {
+        Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+        X-Content-Type-Options "nosniff"
+        X-Frame-Options "DENY"
+        X-XSS-Protection "1; mode=block"
+        Referrer-Policy "strict-origin-when-cross-origin"
+        Content-Security-Policy "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data: blob:;"
+    }
+
+    # Rate limiting
+    rate_limit {
+        zone static {
+            key {remote_host}
+            events 100
+            window 1m
+        }
+    }
+
+    # Health check endpoint (bypass proxy)
+    handle /health {
+        reverse_proxy api:5001
+    }
+
+    # API routes
+    handle /api/* {
+        reverse_proxy api:5001
+    }
+
+    # Static uploads
+    handle /uploads/* {
+        reverse_proxy api:5001
+    }
+
+    # Default
+    respond "Rotiserie API Server" 200
+}

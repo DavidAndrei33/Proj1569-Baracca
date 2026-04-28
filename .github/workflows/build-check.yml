@@ -1,0 +1,71 @@
+name: Build Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-admin:
+    name: Build Admin
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: apps/admin/package-lock.json
+      
+      - name: Install dependencies
+        working-directory: apps/admin
+        run: npm ci
+      
+      - name: Build Admin
+        working-directory: apps/admin
+        run: npm run build
+
+  build-landing:
+    name: Build Landing
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: apps/landing/package-lock.json
+      
+      - name: Install dependencies
+        working-directory: apps/landing
+        run: npm ci
+      
+      - name: Build Landing
+        working-directory: apps/landing
+        run: npm run build
+
+  build-store:
+    name: Build Store
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: apps/store-v2/package-lock.json
+      
+      - name: Install dependencies
+        working-directory: apps/store-v2
+        run: npm ci
+      
+      - name: Build Store
+        working-directory: apps/store-v2
+        run: npm run build

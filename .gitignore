@@ -1,0 +1,26 @@
+# Build outputs
+apps/*/dist/
+# Note: landing/, store/, admin/ are DEPLOYED folders and MUST be tracked in git
+# DO NOT add them back to gitignore or deployments will break!
+
+# Archives
+archives/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/

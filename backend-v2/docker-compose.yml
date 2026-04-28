@@ -1,0 +1,74 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: rotiserie-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DB_USER:-rotiserie}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-rotiserie_secret}
+      POSTGRES_DB: ${DB_NAME:-rotiserie}
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-rotiserie} -d ${DB_NAME:-rotiserie}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - rotiserie-network
+
+  redis:
+    image: redis:7-alpine
+    container_name: rotiserie-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - rotiserie-network
+
+  pgbouncer:
+    image: pgbouncer/pgbouncer:latest
+    container_name: rotiserie-pgbouncer
+    restart: unless-stopped
+    environment:
+      DATABASES_HOST: postgres
+      DATABASES_PORT: 5432
+      DATABASES_DATABASE: ${DB_NAME:-rotiserie}
+      DATABASES_USER: ${DB_USER:-rotiserie}
+      DATABASES_PASSWORD: ${DB_PASSWORD:-rotiserie_secret}
+      POOL_MODE: transaction
+      MAX_CLIENT_CONN: 1000
+      DEFAULT_POOL_SIZE: 20
+      MIN_POOL_SIZE: 5
+      RESERVE_POOL_SIZE: 5
+      RESERVE_POOL_TIMEOUT: 3
+      SERVER_IDLE_TIMEOUT: 600
+      SERVER_LIFETIME: 3600
+      SERVER_CONNECT_TIMEOUT: 5
+      AUTH_TYPE: md5
+    ports:
+      - "6432:6432"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - rotiserie-network
+
+volumes:
+  postgres_data:
+  redis_data:
+
+networks:
+  rotiserie-network:
+    driver: bridge

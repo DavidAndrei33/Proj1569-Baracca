@@ -1,0 +1,290 @@
+================================================================================
+  MENIU COMPLET - PIZZERIA BARACCA
+  Strada Plopilor 2c, Moinesti 605400, Judetul Bacau
+  Telefon: +40 755 916 792
+  Program: Luni-Mar 09:00-22:00, Miercuri INCHIS, Joi-Dum 09:00-22:00
+================================================================================
+
+================================================================================
+  PIZZA NAPOLETANA
+================================================================================
+
+1.  MARGHERITA .................................................... 30 LEI
+    Aluat, sos de rosii, mozzarella, oregano, ulei de masline (460g)
+    Alergeni: gluten, lapte
+
+2.  MARGHERITA SCOMPOSTA .......................................... 32 LEI
+    Aluat, sos de rosii, mozzarella, pesto, ulei de masline (500g)
+    Alergeni: gluten, lapte, nuci, ou, peste
+
+3.  NAPOLI ........................................................ 33 LEI
+    Aluat, sos de rosii, mozzarella, file de ansoa, oregano (500g)
+    Alergeni: gluten, lapte, peste
+
+4.  MARINARA ...................................................... 30 LEI
+    Aluat, sos de rosii, file de ansoa, usturoi (410g)
+    Alergeni: gluten, lapte, peste
+
+5.  PROSCIUTTO COTTO .............................................. 32 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto (530g)
+    Alergeni: gluten, lapte
+
+6.  PROSCIUTTO COTTO E FUNGHI ..................................... 33 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto, ciuperci champignon proaspete (550g)
+    Alergeni: gluten, lapte
+
+7.  SPARTACUS ..................................................... 38 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto, salam ventricina piccante, pancetta affumicata (580g)
+    Alergeni: gluten, lapte
+
+8.  SAN PAOLO ..................................................... 37 LEI
+    Aluat, mozzarella, provola affumicata, Grana Padano, gorgonzola DOP, ceapa rosie, salam ventricina piccante (550g)
+    Alergeni: gluten, lapte, ou
+
+9.  TONNARA ....................................................... 33 LEI
+    Aluat, sos de rosii, mozzarella, ton, ceapa rosie (550g)
+    Alergeni: gluten, lapte, peste
+
+10. SICILIANA ..................................................... 37 LEI
+    Aluat, sos de rosii, mozzarella fior di latte, ansoa, rosii cherry, ceapa rosie, capere, oregano, peperoncino (530g)
+    Alergeni: gluten, lapte, peste
+
+11. QUATTRO FORMAGGI .............................................. 34 LEI
+    Aluat, mozzarella, gorgonzola DOP, provola affumicata, Grana Padano (500g)
+    Alergeni: gluten, lapte, ou
+
+12. PARMIGIANA .................................................... 33 LEI
+    Aluat, sos de rosii, mozzarella, vinete, usturoi, Grana Padano, ulei de masline (540g)
+    Alergeni: gluten, lapte, ou
+
+13. CAPRICCIOSA ................................................... 34 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto, ciuperci champignon proaspete, masline (600g)
+    Alergeni: gluten, lapte
+
+14. QUATTRO STAGIONI .............................................. 36 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto, salam ventricina piccante, ciuperci champignon proaspete, masline (600g)
+    Alergeni: gluten, lapte
+
+15. SALAME PICCANTE ............................................... 34 LEI
+    Aluat, sos de rosii, mozzarella, salam ventricina piccante (500g)
+    Alergeni: gluten, lapte
+
+16. GOLOSA ........................................................ 36 LEI
+    Aluat, sos de rosii, mozzarella, salam ventricina piccante, gorgonzola DOP (530g)
+    Alergeni: gluten, lapte
+
+17. VEGANA ........................................................ 32 LEI
+    Aluat, sos de rosii, vinete, dovlecei, rucola, ciuperci champignon proaspete, rosii cherry (550g)
+    Alergeni: gluten
+
+18. VERDURE ....................................................... 34 LEI
+    Aluat, sos de rosii, mozzarella, vinete, dovlecei, rucola, ciuperci champignon proaspete, rosii cherry (580g)
+    Alergeni: gluten, lapte
+
+19. AFFUMICATA .................................................... 33 LEI
+    Aluat, sos de rosii, mozzarella, provola affumicata, pancetta affumicata (550g)
+    Alergeni: gluten, lapte
+
+20. BO BO ......................................................... 39 LEI
+    Aluat, sos de rosii, mozzarella, provola affumicata, pancetta affumicata, salam ventricina piccante, gorgonzola DOP (580g)
+    Alergeni: gluten, lapte
+
+21. CACIO E PEPE .................................................. 36 LEI
+    Aluat, mozzarella, ulei de masline, pancetta affumicata, Grana Padano, pecorino romano, piper negru (480g)
+    Alergeni: gluten, lapte
+
+22. AMATRICIANA ................................................... 36 LEI
+    Aluat, sos de rosii, pepperoncino, mozzarella, pancetta affumicata, pecorino romano, piper negru (550g)
+    Alergeni: gluten, lapte, ou
+
+23. BUFALA DOP .................................................... 36 LEI
+    Aluat, sos de rosii, mozzarella di Bufala DOP, busuioc, ulei de masline (470g)
+    Alergeni: gluten, lapte
+
+24. CAPRESE ....................................................... 36 LEI
+    Aluat, mozzarella di Bufala DOP, rosii cherry, ulei de masline, busuioc (460g)
+    Alergeni: gluten, lapte
+
+25. ROMAGNOLA ..................................................... 36 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto, dovlecei, Grana Padano, oregano (600g)
+    Alergeni: gluten, lapte, ou
+
+26. CONTADINA ..................................................... 36 LEI
+    Aluat, sos de rosii, mozzarella, pancetta affumicata, vinete, usturoi, Grana Padano (590g)
+    Alergeni: gluten, lapte
+
+27. TARTUFO ....................................................... 37 LEI
+    Aluat, mozzarella, pancetta affumicata, ciuperci champignon proaspete, sos de trufe, pecorino romano (550g)
+    Alergeni: gluten, lapte, ou
+
+28. CALABRESE ..................................................... 36 LEI
+    Aluat, sos de rosii, mozzarella, salam ventricina piccante, ardei gras, pecorino romano (530g)
+    Alergeni: gluten, lapte, ou
+
+29. IMPERIALE ..................................................... 38 LEI
+    Aluat, sos de rosii, mozzarella, rosii cherry, prosciutto crudo di Parma, rucola, Grana Padano (650g)
+    Alergeni: gluten, lapte, ou
+
+30. PROSCIUTTO CRUDO E GRANA ...................................... 36 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto crudo di Parma, Grana Padano (550g)
+    Alergeni: gluten, lapte, ou
+
+31. CRUDAIOLA ..................................................... 38 LEI
+    Aluat, sos de rosii, mozzarella fior di latte, prosciutto crudo di Parma, rucola, rosii cherry (700g)
+    Alergeni: gluten, lapte, soia, mustar
+
+32. BRESAOLA ...................................................... 39 LEI
+    Aluat, sos de rosii, mozzarella fior di latte, bresaola, rucola, Grana Padano (650g)
+    Alergeni: gluten, lapte, ou
+
+33. TIROLESE ...................................................... 35 LEI
+    Aluat, sos de rosii, mozzarella, jambon afumat, gorgonzola DOP (520g)
+    Alergeni: gluten, lapte
+
+34. CRUDONZOLA .................................................... 36 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto crudo di Parma, gorgonzola DOP (550g)
+    Alergeni: gluten, lapte
+
+================================================================================
+  SCHIACCIATINA
+================================================================================
+
+35. SCHIACCIATINA BIANCA ......................................... 15 LEI
+    Aluat, ulei de masline, oregano, sare de mare (300g)
+    Alergeni: gluten
+
+36. SCHIACCIATINA ROSSA ........................................... 20 LEI
+    Aluat, sos de rosii, ulei de masline, oregano, sare de mare (350g)
+    Alergeni: gluten, lapte
+
+================================================================================
+  CALZONE
+================================================================================
+
+37. CALZONE IMPERIALE ............................................ 37 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto crudo di Parma, Grana Padano (550g)
+    Alergeni: gluten, lapte, ou
+
+38. CALZONE TIROLESE .............................................. 37 LEI
+    Aluat, sos de rosii, mozzarella, jambon afumat, gorgonzola DOP (530g)
+    Alergeni: gluten, lapte
+
+39. CALZONE F.ROSSO ............................................... 37 LEI
+    Aluat, sos de rosii, mozzarella, salam ventricina piccante, gorgonzola DOP (530g)
+    Alergeni: gluten, lapte
+
+40. CALZONE QUATTRO FORMAGGI ..................................... 36 LEI
+    Aluat, mozzarella, gorgonzola DOP, provola affumicata, Grana Padano (500g)
+    Alergeni: gluten, lapte, ou
+
+41. CALZONE FARCITO ............................................... 36 LEI
+    Aluat, sos de rosii, mozzarella, prosciutto cotto, ciuperci champignon proaspete, masline (560g)
+    Alergeni: gluten, lapte
+
+42. CALZONE PICCANTE .............................................. 35 LEI
+    Aluat, sos de rosii, mozzarella, salam ventricina piccante (500g)
+    Alergeni: gluten, lapte
+
+================================================================================
+  PIZZA DULCE
+================================================================================
+
+43. PIZZA NUTELLA ................................................ 26 LEI
+    Aluat, nutella, banane (500g)
+    Alergeni: gluten, lapte, nuci, soia
+
+================================================================================
+  DESERTURI
+================================================================================
+
+44. TIRAMISU (200g) .............................................. 25 LEI
+    Alergeni: gluten, lapte, ou, nuci, soia
+
+45. TARTA CU LIME (200g) ......................................... 20 LEI
+
+46. INGHETATA ITALIANA ARTIZANALA ................................  - LEI
+    (pret neprecizat in meniu)
+
+================================================================================
+  BAUTURI RACORITOARE
+================================================================================
+
+47. Apa 330ml (carbogazoasa/plata) ................................ 8 LEI
+48. Apa 750ml (carbogazoasa/plata) ............................... 11 LEI
+49. Lipton Ice Tea 250ml (peach/lemon/green tea) .................. 10 LEI
+50. Prigat 250ml (capsuni/banane/kiwi/piersici/portocale) ......... 11 LEI
+51. Pepsi 250ml ................................................... 10 LEI
+52. Pepsi Twist 250ml ............................................. 10 LEI
+53. 7UP 250ml ..................................................... 10 LEI
+54. Evervess Tonic 250ml .......................................... 10 LEI
+55. Mirinda Portocale 250ml ....................................... 10 LEI
+56. Limonada 400ml ................................................ 13 LEI
+57. Suc natural de portocale 250ml ................................ 14 LEI
+
+================================================================================
+  BERE LA STICLA
+================================================================================
+
+58. Ursus Premium 500ml ........................................... 9 LEI
+59. Ursus Fara Alcool 500ml ....................................... 9 LEI
+60. Ursus Cooler Fara Alc. 330ml (lamaie/grefe/cirese) ............. 9 LEI
+61. Peroni 500ml .................................................. 13 LEI
+62. Peroni Capri 330ml ............................................ 13 LEI
+63. Peroni Fara Alcool 330ml ...................................... 11 LEI
+64. Kozel 330ml ................................................... 11 LEI
+
+================================================================================
+  BERE DRAFT
+================================================================================
+
+65. Ursus 400ml ................................................... 10 LEI
+
+================================================================================
+  VINURI / PROSECCO
+================================================================================
+
+66. Vinul casei pahar 200ml ...................................... 12 LEI
+67. Prosecco 120ml ............................................... 12 LEI
+68. Alb 1L ........................................................ 40 LEI
+69. Rose 1L ....................................................... 40 LEI
+70. Prosecco Valdobbiadene Superiore 750ml ....................... 100 LEI
+
+================================================================================
+  COCKTAIL-URI
+================================================================================
+
+71. Gin Tonic 200ml (gin, apa tonica, lamaie) .................... 19 LEI
+72. Cuba Libre 300ml (rom, cola, lime) ........................... 23 LEI
+73. Capo Tonic 200ml (amaro del capo, apa tonica, lamaie) ......... 20 LEI
+74. Aperol Spritz 250ml ........................................... 25 LEI
+75. Hugo 250ml .................................................... 25 LEI
+
+================================================================================
+  CAFEA / CEAI / CIOCOLATA CALDA
+================================================================================
+
+76. Espresso ...................................................... 8 LEI
+77. Cappuccino .................................................... 10 LEI
+78. Cafea decofeinizata ........................................... 7 LEI
+79. Ice Latte ..................................................... 14 LEI
+80. Caffe Latte ................................................... 14 LEI
+81. Ceai .......................................................... 7 LEI
+82. Ciocolata calda (neagra/alba) ................................. 9 LEI
+
+================================================================================
+  DIGESTIVO
+================================================================================
+
+83. Vecchio Amaro del Capo 40ml ................................... 8 LEI
+84. Limoncello 40ml ............................................... 7 LEI
+85. Vecchia Romagna 40ml .......................................... 8 LEI
+
+================================================================================
+  OBSERVATII
+================================================================================
+- Ambalajul bauturilor racoritoare este inclus in pret.
+- Toate pizzale au aluat napoletan autentic.
+- Alergenii sunt mentionati pentru fiecare produs.
+- Miercuri: INCHIS
+
+================================================================================

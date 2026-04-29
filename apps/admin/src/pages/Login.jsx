@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import React, { useState, useContext, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext.jsx';
 import { Utensils, Eye, EyeOff, Loader2 } from 'lucide-react';
@@ -10,8 +10,15 @@ export default function Login() {
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
-  const { login } = useContext(AuthContext);
+  const { login, isAuthenticated } = useContext(AuthContext);
   const navigate = useNavigate();
+
+  // Redirect when authenticated (handles race condition)
+  useEffect(() => {
+    if (isAuthenticated) {
+      navigate('/', { replace: true });
+    }
+  }, [isAuthenticated, navigate]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -20,7 +27,8 @@ export default function Login() {
 
     const result = await login(username, password);
     if (result.success) {
-      navigate('/', { replace: true });
+      // Navigation handled by useEffect watching isAuthenticated
+      // This avoids race condition with PrivateRoute
     } else {
       setError(result.error);
     }
